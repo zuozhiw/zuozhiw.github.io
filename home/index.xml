@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Zuozhi Wang</title>
+    <link>https://zuozhiw.github.io/home/</link>
+    <description>Recent content in Homes on Zuozhi Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://zuozhiw.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://zuozhiw.github.io/home/about/</link>
+      <pubDate>Tue, 06 Mar 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zuozhiw.github.io/home/about/</guid>
+      <description>Biography I am a first year PhD Computer Science Student at Unversity of California, Irvine. I&amp;rsquo;m currently working on a text analytics system Texera under the supervision of Professor Chen Li.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://zuozhiw.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zuozhiw.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Teaching</title>
+      <link>https://zuozhiw.github.io/home/teaching/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://zuozhiw.github.io/home/teaching/</guid>
+      <description>I&amp;rsquo;m the TA for the following courses at UC Irvine:
+ Winter 2018: CS 122B - Projects in Databases and Web Applications Fall 2017: CS 222P - Principles of Data Management  </description>
+    </item>
+    
+    <item>
+      <title>Recent Publications</title>
+      <link>https://zuozhiw.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 -0700</pubDate>
+      
+      <guid>https://zuozhiw.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
