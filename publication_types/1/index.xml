@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Apr 2017 00:00:00 -0700</lastBuildDate>
     
 	<atom:link href="https://zuozhiw.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,7 +15,7 @@
     <item>
       <title>A Demonstration of TextDB: Declarative and Scalable Text Analytics on Large Data Sets</title>
       <link>https://zuozhiw.github.io/publication/a-demo-of-textdb/</link>
-      <pubDate>Wed, 19 Apr 2017 00:00:00 +0800</pubDate>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 -0700</pubDate>
       
       <guid>https://zuozhiw.github.io/publication/a-demo-of-textdb/</guid>
       <description></description>

@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Tue, 06 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Nov 2018 00:00:00 -0800</lastBuildDate>
     
 	<atom:link href="https://zuozhiw.github.io/home/index.xml" rel="self" type="application/rss+xml" />
     
@@ -19,7 +19,7 @@
       
       <guid>https://zuozhiw.github.io/home/about/</guid>
       <description>Biography Zuozhi Wang (王作至)
-I am a second year Computer Science PhD student at Unversity of California, Irvine. My primary work is on an interactive big data analytics project Texera under the supervision of Professor Chen Li.</description>
+I am a third year Computer Science PhD student at Unversity of California, Irvine, under the supervision of Professor Chen Li. My research focuses are on the areas of distributed big data processing and query optimization. I&amp;rsquo;m working Texera, an interactive big data processing system, and Amber, which is Texera&amp;rsquo;s underlying distributed dataflow engine that supports reponsive debugging.</description>
     </item>
     
     <item>
@@ -34,17 +34,17 @@ I am a second year Computer Science PhD student at Unversity of California, Irvi
     <item>
       <title>Teaching</title>
       <link>https://zuozhiw.github.io/home/teaching/</link>
-      <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 +0000</pubDate>
       
       <guid>https://zuozhiw.github.io/home/teaching/</guid>
-      <description>I&amp;rsquo;m the TA for the following courses at UC Irvine:
- Spring 2018: CS 122B - Projects in Databases and Web Applications Winter 2018: CS 122B  I helped make various improvements to the class, include using Github, Maven, Frontend-Backend separation and more JavaScript content.  Fall 2017: CS 222P - Principles of Data Management.  I helped make a improvement to the class of using Valgrind in C++ development.   </description>
+      <description>I&amp;rsquo;m the Teaching Assistant for the following courses at UC Irvine:
+ Spring 2019: CS 221 - Information Retrieval  Developed the course project from scratch - Implement a full-text search engine similar to Lucene and Elastic Search in Java.  Winter 2018, Spring 2018, Winter 2019: CS 122B - Projects in Databases and Web Applications  Made many improvements to update the class project with latest web-related technologies, such as Github, Maven, Frontend-Backend separation, modern JavaScript, and more.</description>
     </item>
     
     <item>
       <title>Recent Publications</title>
       <link>https://zuozhiw.github.io/home/publications/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      <pubDate>Thu, 08 Nov 2018 00:00:00 -0800</pubDate>
       
       <guid>https://zuozhiw.github.io/home/publications/</guid>
       <description></description>

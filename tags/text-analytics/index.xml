@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>text-analytics on Zuozhi Wang</title>
+    <link>https://zuozhiw.github.io/tags/text-analytics/</link>
+    <description>Recent content in text-analytics on Zuozhi Wang</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 08 Nov 2018 04:23:35 -0800</lastBuildDate>
+    
+	<atom:link href="https://zuozhiw.github.io/tags/text-analytics/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Texera</title>
+      <link>https://zuozhiw.github.io/project/texera/</link>
+      <pubDate>Thu, 08 Nov 2018 04:23:35 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/project/texera/</guid>
+      <description>Texera is a GUI-based workflow system for interactive big data Analytics.</description>
+    </item>
+    
+  </channel>
+</rss>

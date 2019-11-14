@@ -1,11 +1,99 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     
     <url>
     
+      <loc>https://zuozhiw.github.io/project/progressive/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/project/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/tags/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zuozhiw.github.io/project/texera/</loc>
-      <lastmod>2018-03-06T04:23:35-08:00</lastmod>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/tags/big-data/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/tags/progressive/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/tags/query-optimizer/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/tags/texera/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/tags/text-analytics/</loc>
+      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/publication_types/1/</loc>
+      <lastmod>2017-04-19T00:00:00-07:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -13,7 +101,24 @@
     <url>
     
       <loc>https://zuozhiw.github.io/publication/a-demo-of-textdb/</loc>
-      <lastmod>2017-04-19T00:00:00+08:00</lastmod>
+      <lastmod>2017-04-19T00:00:00-07:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/publication_types/</loc>
+      <lastmod>2017-04-19T00:00:00-07:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/post/</loc>
+      <lastmod>2017-01-01T00:00:00-08:00</lastmod>
     </url>
     
   
@@ -36,59 +141,7 @@
     
     <url>
     
-      <loc>https://zuozhiw.github.io/post/</loc>
-      <lastmod>2017-01-01T00:00:00+08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/publication_types/1/</loc>
-      <lastmod>2017-04-19T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
       <loc>https://zuozhiw.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/project/</loc>
-      <lastmod>2018-03-06T04:23:35-08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/publication_types/</loc>
-      <lastmod>2017-04-19T00:00:00+08:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/tags/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/</loc>
-      <lastmod>2018-03-06T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     

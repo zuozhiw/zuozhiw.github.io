@@ -7,9 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Thu, 08 Nov 2018 04:23:35 -0800</lastBuildDate>
     
 	<atom:link href="https://zuozhiw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>big-data</title>
+      <link>https://zuozhiw.github.io/tags/big-data/</link>
+      <pubDate>Thu, 08 Nov 2018 04:23:35 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/tags/big-data/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>progressive</title>
+      <link>https://zuozhiw.github.io/tags/progressive/</link>
+      <pubDate>Thu, 08 Nov 2018 04:23:35 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/tags/progressive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>query-optimizer</title>
+      <link>https://zuozhiw.github.io/tags/query-optimizer/</link>
+      <pubDate>Thu, 08 Nov 2018 04:23:35 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/tags/query-optimizer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>texera</title>
+      <link>https://zuozhiw.github.io/tags/texera/</link>
+      <pubDate>Thu, 08 Nov 2018 04:23:35 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/tags/texera/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>text-analytics</title>
+      <link>https://zuozhiw.github.io/tags/text-analytics/</link>
+      <pubDate>Thu, 08 Nov 2018 04:23:35 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/tags/text-analytics/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
