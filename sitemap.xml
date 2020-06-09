@@ -3,6 +3,41 @@
     
     <url>
     
+      <loc>https://zuozhiw.github.io/publication_types/1/</loc>
+      <lastmod>2019-12-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/publication/amber-vldb-2020/</loc>
+      <lastmod>2019-12-01T00:00:00-08:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/publication_types/</loc>
+      <lastmod>2019-12-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/</loc>
+      <lastmod>2019-12-01T00:00:00-08:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://zuozhiw.github.io/project/progressive/</loc>
       <lastmod>2018-11-08T04:23:35-08:00</lastmod>
     </url>
@@ -31,15 +66,6 @@
     
       <loc>https://zuozhiw.github.io/project/texera/</loc>
       <lastmod>2018-11-08T04:23:35-08:00</lastmod>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/</loc>
-      <lastmod>2018-11-08T04:23:35-08:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -91,16 +117,7 @@
     
     <url>
     
-      <loc>https://zuozhiw.github.io/publication_types/1/</loc>
-      <lastmod>2017-04-19T00:00:00-07:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://zuozhiw.github.io/publication/a-demo-of-textdb/</loc>
+      <loc>https://zuozhiw.github.io/publication/textdb-icde-2017/</loc>
       <lastmod>2017-04-19T00:00:00-07:00</lastmod>
     </url>
     
@@ -108,9 +125,16 @@
     
     <url>
     
-      <loc>https://zuozhiw.github.io/publication_types/</loc>
+      <loc>https://zuozhiw.github.io/publication/texera-vldb-demo-2020/</loc>
       <lastmod>2017-04-19T00:00:00-07:00</lastmod>
-      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://zuozhiw.github.io/publication/grosbeak-sigmod-demo-2020/</loc>
+      <lastmod>2017-04-19T00:00:00-07:00</lastmod>
     </url>
     
   

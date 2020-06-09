@@ -13,11 +13,38 @@
     
     
     <item>
+      <title>Amber: A Debuggable Dataflow System Based on the Actor Model</title>
+      <link>https://zuozhiw.github.io/publication/amber-vldb-2020/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 -0800</pubDate>
+      
+      <guid>https://zuozhiw.github.io/publication/amber-vldb-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Demonstration of TextDB: Declarative and Scalable Text Analytics on Large Data Sets</title>
-      <link>https://zuozhiw.github.io/publication/a-demo-of-textdb/</link>
+      <link>https://zuozhiw.github.io/publication/textdb-icde-2017/</link>
       <pubDate>Wed, 19 Apr 2017 00:00:00 -0700</pubDate>
       
-      <guid>https://zuozhiw.github.io/publication/a-demo-of-textdb/</guid>
+      <guid>https://zuozhiw.github.io/publication/textdb-icde-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Demonstration of Interactive Runtime Debugging of Distributed Dataflows in Texera</title>
+      <link>https://zuozhiw.github.io/publication/texera-vldb-demo-2020/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://zuozhiw.github.io/publication/texera-vldb-demo-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grosbeak: A Data Warehouse Supporting Resource-Aware Incremental Computing</title>
+      <link>https://zuozhiw.github.io/publication/grosbeak-sigmod-demo-2020/</link>
+      <pubDate>Wed, 19 Apr 2017 00:00:00 -0700</pubDate>
+      
+      <guid>https://zuozhiw.github.io/publication/grosbeak-sigmod-demo-2020/</guid>
       <description></description>
     </item>
     
