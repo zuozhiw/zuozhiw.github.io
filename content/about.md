@@ -47,16 +47,39 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 
 ## News
+<style>
+  .news ul {
+    padding-left: 0px !important;
+  }
+  .news ul li {
+    margin-bottom: 5px;
+  }
+</style>
 
+<div class="news" markdown=1>
+
+- 2022-09: Our paper "Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees" accepted by VLDB 2023!
 - 2022-09: I participated remotely in our Texera VLDB'22 demo, with my colleagues in Sydney and me in Irvine working collaboratively on a workflow at the same time.
 - 2022-09: I posted my [first blog](https://texera.github.io/blog/data-crawling-using-texera-with-python-user-defined-functions/) on using Texera for web crawling and ETL process.
 - 2022-08: I passed my topic defense exam!
 - 2022-06: I attended SIGMOD'22 in person. It was super fun to attend my first in-person conference after covid!
 - 2022-06: Two demo papers accepted by VLDB'22.
 
+</div>
 
 ## Publications
+<style>
+  .publications ol {
+    padding-left: 0px !important;
+    border-spacing: 0 5px;
+    border-collapse: separate;
+  }
+</style>
 
+<div class="publications">
+
+1. **Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees**  
+**Zuozhi Wang**, Shengquan Ni, Avinash Kumar, Chen Li, to appear in **VLDB 2023**.  
 1. **Demonstration of Collaborative and Interactive Workflow-Based Data Analytics in Texera** (demo paper)   
 Xiaozhen Liu, **Zuozhi Wang**, Shengquan Ni, Sadeem Alsudais, Yicong Huang, Avinash Kumar, Chen Li, in **VLDB 2022**. [ [PDF] ](https://www.vldb.org/pvldb/vol15/p3738-liu.pdf) [ [Demo Video] ](https://youtu.be/2gfPUZNsoBs)
 1. **Optimizing Machine Learning Inference Queries with Correlative Proxy Models**   
@@ -74,7 +97,7 @@ Avinash Kumar, **Zuozhi Wang**, Shengquan Ni, Chen Li, in **VLDB 2020**. [ [PDF]
 1. **A Demonstration of TextDB: Declarative and Scalable Text Analytics on Large Data Sets** (**Best Demo Award**)   
 **Zuozhi Wang**, Flavio Bayer, Seungjin Lee, Kishore Narendran, Xuxi Pan, Qing Tang, Jimmy Wang, Chen Li, in **ICDE 2017**. [ [PDF]     ](https://chenli.ics.uci.edu/files/icde2017-textdb-demo.pdf) 
 
-
+</div>
 
 <!-- ## References
 
