@@ -18,16 +18,21 @@ enableEmoji = true
         avatarSize = "120px"
         colorBlack = "#222222"
         colorRed = "#dc3545"
-    # [[params.socialIcons]]
-    #     icon = "fab fa-github"
-    #     title = "Github"
-    #     url = "https://github.com/zuozhiw"
+    [[params.socialIcons]]
+        icon = "fab fa-github"
+        title = "Github"
+        url = "https://github.com/zuozhiw"
+    [[params.socialIcons]]
+        icon = "fab fa-linkedin"
+        title = "LinkedIn"
+        url = "https://www.linkedin.com/in/zuozhiw/"
 
-[menu]
-  [[menu.main]]
-    name = "About"
-    url = "/about"
-    weight = 1
+
+# [menu]
+#   [[menu.main]]
+#     name = "About"
+#     url = "/about"
+#     weight = 1
   # [[menu.main]]
   #   name = "Resume"
   #   url = "/resume.pdf"
