@@ -6,7 +6,7 @@ title = "Zuozhi Wang"
 
 {{< figure class="avatar" src="/portrait.jpeg" alt="avatar">}}
 
-I am a sixth year Computer Science PhD student at UC Irvine, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed big data processing and query optimization. I'm currently looking for a job this year :)
+I am a sixth year Computer Science PhD student at UC Irvine, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed big data processing and query optimization. I am on the job market this year :)
 
 ## Education
 2017-2023 (expected)
@@ -24,12 +24,12 @@ I am the #1 contributor of the Texera project (1000+ commits).
 I have worked on virtually all layers of the system, including the distributed dataflow execution engine, RPC services, fault tolerance, compiler, operator library, web services, and the frontend. I have also mentored over 50+ undergraduate and master students on the project.
 
 
-<a href="https://github.com/alibaba/cost-based-incremental-optimizer" style="font-size:1.2em;font-weight:bold;">Tempura</a>, a cost-Based optimizer framework for incremental data processing.   
+<a href="https://github.com/alibaba/cost-based-incremental-optimizer" style="font-size:1.2em;font-weight:bold;">Tempura</a>, a cost-based optimizer framework for incremental data processing.   
 2018 - 2020, at Alibaba  
 
 I was the main developer of the Tempura optimizer framework, which is built on top of Apache Calcite. I worked on the core design of the query planner and rule engine, introduced 20+ new rewriting rules for incremental processing and incremental view maintenance, and worked on various optimizations. 
 
-Tempura has been deployed into production in [Alibaba MaxCompute](https://www.alibabacloud.com/product/maxcompute) Data Warehouse, and used by more than 10% of all queries run on the platform every day. It's projected to save resource costs of more than 100 million USD every year.
+Tempura has been deployed into production in [Alibaba MaxCompute](https://www.alibabacloud.com/product/maxcompute) Data Warehouse, and used by more than 10% of queries that run on the platform every day. It was projected to save resource costs of more than 100 million USD every year.
 
 
 ## Industrial Experience
@@ -37,7 +37,7 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 **Research Intern at Microsoft Research**, 2020.6 - 2020.9
 <!-- Research Intern in the [Data Management, Exploration and Mining (DMX)](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group. -->
 - Mentor: [Bailu Ding](https://www.microsoft.com/en-us/research/people/badin/)
-- Worked on query optimization for Microsoft SQL Server. Implemented materialized bitmap filters in SQL Server Data Warehouse and designed an algorithm to reuse materialized bitmap filters.
+- Worked on query optimization in Microsoft SQL Server. Implemented materialized bitmap filters in SQL Server Data Warehouse and designed an algorithm to reuse materialized bitmap filters.
 
 **Research Collaborator at Alibaba**,  2018.6 - 2020.6
 <!-- Research Collaborator in the Data Analytics and Intelligence Lab (DAIL). -->

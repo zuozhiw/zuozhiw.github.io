@@ -19,11 +19,11 @@ enableEmoji = true
         colorBlack = "#222222"
         colorRed = "#dc3545"
     [[params.socialIcons]]
-        icon = "fab fa-github"
+        icon = "fab fa-github fa-2x"
         title = "Github"
         url = "https://github.com/zuozhiw"
     [[params.socialIcons]]
-        icon = "fab fa-linkedin"
+        icon = "fab fa-linkedin fa-2x"
         title = "LinkedIn"
         url = "https://www.linkedin.com/in/zuozhiw/"
 
