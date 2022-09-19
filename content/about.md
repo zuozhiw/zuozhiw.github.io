@@ -59,11 +59,11 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 <div class="news" markdown=1>
 
 - 2022-09: Our paper "Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees" accepted by VLDB 2023!
-- 2022-09: I participated remotely in our Texera VLDB'22 demo, with my colleagues in Sydney and me in Irvine working collaboratively on a workflow at the same time.
+- 2022-09: I participated remotely in our Texera VLDB 2022 demo, with my colleagues in Sydney and me in Irvine working collaboratively on a workflow at the same time.
 - 2022-09: I posted my [first blog](https://texera.github.io/blog/data-crawling-using-texera-with-python-user-defined-functions/) on using Texera for web crawling and ETL process.
 - 2022-08: I passed my topic defense exam!
-- 2022-06: I attended SIGMOD'22 in person. It was super fun to attend my first in-person conference after covid!
-- 2022-06: Two demo papers accepted by VLDB'22.
+- 2022-06: I attended SIGMOD 2022 in person in Philadelphia. It was super fun to attend my first in-person conference after covid!
+- 2022-06: Two demo papers accepted by VLDB 2022.
 
 </div>
 
