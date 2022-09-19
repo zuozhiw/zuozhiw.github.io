@@ -20,16 +20,16 @@ I am a sixth year Computer Science PhD student at UC Irvine, under the supervisi
 <a href="https://github.com/Texera/texera" style="font-size:1.2em;font-weight:bold;">Texera</a>, a system for scalable and collaborative data analytics using workflows.  
 2016 - Present, at UC Irvine  
 
-I am the #1 contributor of the Texera project (1000+ commits). 
+I am the main contributor of the Texera project (1000+ commits). 
 I have worked on virtually all layers of the system, including the distributed dataflow execution engine, RPC services, fault tolerance, compiler, operator library, web services, and the frontend. I have also mentored over 50+ undergraduate and master students on the project.
 
 
 <a href="https://github.com/alibaba/cost-based-incremental-optimizer" style="font-size:1.2em;font-weight:bold;">Tempura</a>, a cost-based optimizer framework for incremental data processing.   
 2018 - 2020, at Alibaba  
 
-I was the main developer of the Tempura optimizer framework, which is built on top of Apache Calcite. I worked on the core design of the query planner and rule engine, introduced 20+ new rewriting rules for incremental processing and incremental view maintenance, and worked on various optimizations. 
+I was the main developer of the Tempura optimizer framework, which is built on top of Apache Calcite. I worked on the design of the core query planner and rule engine, introduced 20+ new rewriting rules for incremental processing and incremental view maintenance, and worked on various optimizations. 
 
-Tempura has been deployed into production in [Alibaba MaxCompute](https://www.alibabacloud.com/product/maxcompute) Data Warehouse, and used by more than 10% of queries that run on the platform every day. It was projected to save resource costs of more than 100 million USD every year.
+Tempura has been deployed into production in [Alibaba MaxCompute](https://www.alibabacloud.com/product/maxcompute) Data Warehouse, and used by more than 10% of queries that run on the platform every day.
 
 
 ## Industrial Experience
