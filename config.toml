@@ -13,7 +13,7 @@ enableEmoji = true
     #     text = 'By Zuozhi Wang'
     #     url = 'no footer url, test only'
     [params.style]
-        fontFamily = "Inconsolata"
+        fontFamily = "Arial, sans-serif"
         pageWidth = "1000px"
         avatarSize = "120px"
         colorBlack = "#222222"
