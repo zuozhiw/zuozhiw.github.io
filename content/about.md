@@ -38,7 +38,7 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 - Mentor: [Bailu Ding](https://www.microsoft.com/en-us/research/people/badin/)
 - Worked on query optimization in Microsoft SQL Server. Implemented materialized bitmap filters in SQL Server Data Warehouse and designed an algorithm to reuse materialized bitmap filters.
 
-**Research Collaborator at Alibaba**,  2018.6 - 2020.6
+**Research Collaborator with Alibaba**,  2018.6 - 2020.6
 <!-- Research Collaborator in the Data Analytics and Intelligence Lab (DAIL). -->
 - Mentor: [Kai Zeng](https://kai-zeng.github.io/)
 - Worked on [Tempura](https://github.com/alibaba/cost-based-incremental-optimizer), a query optimizer framework for incremental data processing.
