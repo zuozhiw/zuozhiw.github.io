@@ -17,7 +17,7 @@ enableEmoji = true
         pageWidth = "1000px"
         avatarSize = "120px"
         colorBlack = "#222222"
-        colorRed = "#dc3545"
+        colorRed = "#525252"
     [[params.socialIcons]]
         icon = "fab fa-github fa-2x"
         title = "Github"
