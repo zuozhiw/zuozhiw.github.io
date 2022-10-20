@@ -8,6 +8,8 @@ title = "Zuozhi Wang"
 
 I am a sixth year Computer Science PhD student at UC Irvine, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed big data processing and query optimization. I am on the job market this year :)
 
+Email:  zuozhiw  [at]  uci  [dot]  edu
+
 ## Education
 2017-2023 (expected)
 :   **PhD, Computer Science**; UC Irvine
@@ -86,7 +88,7 @@ Zhihui Yang, **Zuozhi Wang**, Yicong Huang, Yao Lu, Chen Li, X. Sean Wang, in **
 1. Demonstration of Accelerating Machine Learning Inference Queries with Correlative Proxy Models (demo paper),   
 Zhihui Yang, Yicong Huang, **Zuozhi Wang**, Feng Gao, Yao Lu, Chen Li, X. Sean Wang, in **VLDB 2022**. [ [PDF] ](https://www.vldb.org/pvldb/vol15/p3734-yang.pdf)
 1. Tempura: A General Cost-based Optimizer Framework for Incremental Data Processing,   
-**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB 2021**. [ [PDF] ](http://vldb.org/pvldb/vol14/p14-wang.pdf) [ [Slides] ](https://www.slideshare.net/ZuozhiWang/tempura-a-general-costbased-optimizer-framework-for-incremental-data-processing) [ [Github] ](https://github.com/alibaba/cost-based-incremental-optimizer)
+**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB 2021**. [ [PDF] ](http://vldb.org/pvldb/vol14/p14-wang.pdf) [ [Slides] ](https://www.slideshare.net/ZuozhiWang/tempura-a-general-costbased-optimizer-framework-for-incremental-data-processing) [ [Video] ](https://www.youtube.com/watch?v=VxPSsRD5afU) [ [Github] ](https://github.com/alibaba/cost-based-incremental-optimizer)
 1. Grosbeak: A Data Warehouse Supporting Resource-Aware Incremental Computing (demo paper),   
 **Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **SIGMOD 2020**. [ [PDF] ](https://dl.acm.org/doi/pdf/10.1145/3318464.3384708)
 1. Amber: A Debuggable Dataflow System Based on the Actor Model,   
