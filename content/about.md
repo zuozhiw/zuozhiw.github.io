@@ -80,7 +80,7 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 <div class="publications">
 
 1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,  
-**Zuozhi Wang**, Shengquan Ni, Avinash Kumar, Chen Li, to appear in **VLDB 2023**.  
+**Zuozhi Wang**, Shengquan Ni, Avinash Kumar, Chen Li, in **VLDB 2023**.   [ [PDF] ](https://www.vldb.org/pvldb/vol16/p256-wang.pdf)
 1. Demonstration of Collaborative and Interactive Workflow-Based Data Analytics in Texera (demo paper),   
 Xiaozhen Liu, **Zuozhi Wang**, Shengquan Ni, Sadeem Alsudais, Yicong Huang, Avinash Kumar, Chen Li, in **VLDB 2022**. [ [PDF] ](https://www.vldb.org/pvldb/vol15/p3738-liu.pdf) [ [Demo Video] ](https://youtu.be/2gfPUZNsoBs)
 1. Optimizing Machine Learning Inference Queries with Correlative Proxy Models,   
