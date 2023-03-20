@@ -79,6 +79,8 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 <div class="publications">
 
+1. Tempura: a general cost-based optimizer framework for incremental data processing (Journal Version),
+**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB Journal**. [ [PDF] ](https://link.springer.com/article/10.1007/s00778-023-00785-1)
 1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,  
 **Zuozhi Wang**, Shengquan Ni, Avinash Kumar, Chen Li, in **VLDB 2023**.   [ [PDF] ](https://www.vldb.org/pvldb/vol16/p256-wang.pdf) [ [Extended Version] ](https://arxiv.org/pdf/2210.10306.pdf)
 1. Demonstration of Collaborative and Interactive Workflow-Based Data Analytics in Texera (demo paper),   
@@ -88,7 +90,7 @@ Zhihui Yang, **Zuozhi Wang**, Yicong Huang, Yao Lu, Chen Li, X. Sean Wang, in **
 1. Demonstration of Accelerating Machine Learning Inference Queries with Correlative Proxy Models (demo paper),   
 Zhihui Yang, Yicong Huang, **Zuozhi Wang**, Feng Gao, Yao Lu, Chen Li, X. Sean Wang, in **VLDB 2022**. [ [PDF] ](https://www.vldb.org/pvldb/vol15/p3734-yang.pdf)
 1. Tempura: A General Cost-based Optimizer Framework for Incremental Data Processing,   
-**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB 2021**. [ [PDF] ](http://vldb.org/pvldb/vol14/p14-wang.pdf) [ [Slides] ](https://www.slideshare.net/ZuozhiWang/tempura-a-general-costbased-optimizer-framework-for-incremental-data-processing) [ [Video] ](https://www.youtube.com/watch?v=VxPSsRD5afU) [ [Github] ](https://github.com/alibaba/cost-based-incremental-optimizer)  [ [Extended Version] ](https://arxiv.org/pdf/2009.13631.pdf)
+**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB 2021**. [ [PDF] ](http://vldb.org/pvldb/vol14/p14-wang.pdf) [ [Slides] ](https://www.slideshare.net/ZuozhiWang/tempura-a-general-costbased-optimizer-framework-for-incremental-data-processing) [ [Video] ](https://www.youtube.com/watch?v=VxPSsRD5afU) [ [Github] ](https://github.com/alibaba/cost-based-incremental-optimizer)
 1. Grosbeak: A Data Warehouse Supporting Resource-Aware Incremental Computing (demo paper),   
 **Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **SIGMOD 2020**. [ [PDF] ](https://dl.acm.org/doi/pdf/10.1145/3318464.3384708)
 1. Amber: A Debuggable Dataflow System Based on the Actor Model,   
