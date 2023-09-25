@@ -84,13 +84,13 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 <div class="publications">
 
-1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control, 
+1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control,   
 Yicong Huang, **Zuozhi Wang**, and Chen Li, to appear in **SIGMOD 2024**.
-1. Building a Collaborative Data Analytics System: Opportunities and Challenges (tutorial),
+1. Building a Collaborative Data Analytics System: Opportunities and Challenges (tutorial),   
 **Zuozhi Wang**, Chen Li, in **VLDB 2023**. [ [PDF] ](https://www.vldb.org/pvldb/vol16/p3898-wang.pdf)
-1. Tempura: a general cost-based optimizer framework for incremental data processing (Journal Version),
+1. Tempura: a general cost-based optimizer framework for incremental data processing (Journal Version),   
 **Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB Journal**. [ [PDF] ](https://link.springer.com/article/10.1007/s00778-023-00785-1)
-1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,  
+1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,   
 **Zuozhi Wang**, Shengquan Ni, Avinash Kumar, Chen Li, in **VLDB 2023**.   [ [PDF] ](https://www.vldb.org/pvldb/vol16/p256-wang.pdf) [ [Extended Version] ](https://arxiv.org/pdf/2210.10306.pdf)
 1. Demonstration of Collaborative and Interactive Workflow-Based Data Analytics in Texera (demo paper),   
 Xiaozhen Liu, **Zuozhi Wang**, Shengquan Ni, Sadeem Alsudais, Yicong Huang, Avinash Kumar, Chen Li, in **VLDB 2022**. [ [PDF] ](https://www.vldb.org/pvldb/vol15/p3738-liu.pdf) [ [Demo Video] ](https://youtu.be/2gfPUZNsoBs)
