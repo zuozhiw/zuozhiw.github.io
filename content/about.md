@@ -5,7 +5,8 @@ title = "Zuozhi Wang"
 ## About Me
 
 {{< figure class="avatar" src="/portrait.jpeg" alt="avatar">}}
-I'm a software engineer at [Observe Inc](https://www.observeinc.com/), working on query optimizations on large declarative pipelines. I graduated with my PhD in Computer Science from UC Irvine in 2023, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed big data processing and query optimization.
+I'm a software engineer at [Observe Inc](https://www.observeinc.com/), working on query optimizations of large declarative pipelines.   
+I graduated with my PhD in Computer Science from UC Irvine in 2023, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed big data processing and query optimization.
 
 Email:  zuozhi.wang  [at]  observeinc  [dot]  com
 
