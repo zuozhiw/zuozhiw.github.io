@@ -57,16 +57,18 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 </style>
 
 <div class="news" markdown=1>
-- 2023-07: I started my job at Observe Inc.
-- 2023-06: I graduated from UC Irvine.
-- 2023-04: I passed my PhD final defense.
-- 2023-04: I had a blast attending ICDE 2023 in Anaheim, just steps away from UCI.
+
+- 2023-08: Had great fun attending VLDB 2023 in Vancouver.
+- 2023-07: Started my job at Observe Inc.
+- 2023-06: Graduated from UC Irvine.
+- 2023-04: Passed my PhD final defense.
+- 2023-04: Had a blast attending ICDE 2023 in Anaheim, just steps away from UCI.
 - 2023-03: The last time I served as a TA for CS122B, one of the most popular courses at UCI. I have done TA for this course 6 times and made numerous improvements. 
 - 2022-09: Our paper "Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees" accepted by VLDB 2023!
-- 2022-09: I participated remotely in our Texera VLDB 2022 demo, with my colleagues in Sydney and me in Irvine working collaboratively on a workflow at the same time.
-- 2022-09: I posted my [first blog](https://texera.github.io/blog/data-crawling-using-texera-with-python-user-defined-functions/) on using Texera for web crawling and ETL process.
-- 2022-08: I passed my topic defense exam.
-- 2022-06: I attended SIGMOD 2022 in person in Philadelphia. It was super fun to attend my first in-person conference after covid.
+- 2022-09: Participated remotely in our Texera VLDB 2022 demo, with my colleagues in Sydney and me in Irvine working collaboratively on a workflow at the same time.
+- 2022-09: Posted my [first blog](https://texera.github.io/blog/data-crawling-using-texera-with-python-user-defined-functions/) on using Texera for web crawling and ETL process.
+- 2022-08: Passed my topic defense exam.
+- 2022-06: Attended SIGMOD 2022 in person in Philadelphia. It was super fun to attend my first in-person conference after covid.
 - 2022-06: Two demo papers accepted by VLDB 2022.
 
 </div>
@@ -82,6 +84,12 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 <div class="publications">
 
+1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control, 
+Yicong Huang, **Zuozhi Wang**, and Chen Li, to appear in **SIGMOD 2024**.
+1. Building a Collaborative Data Analytics System: Opportunities and Challenges (tutorial),
+**Zuozhi Wang**, Chen Li, in **VLDB 2023**. [ [PDF] ](https://www.vldb.org/pvldb/vol16/p3898-wang.pdf)
+1. Building a Collaborative Data Analytics System: Opportunities and Challenges (tutorial),
+**Zuozhi Wang**, Chen Li, in **VLDB 2023**. [ [PDF] ](https://www.vldb.org/pvldb/vol16/p3898-wang.pdf)
 1. Tempura: a general cost-based optimizer framework for incremental data processing (Journal Version),
 **Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB Journal**. [ [PDF] ](https://link.springer.com/article/10.1007/s00778-023-00785-1)
 1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,  
