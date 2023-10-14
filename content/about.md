@@ -89,6 +89,8 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 Yicong Huang, **Zuozhi Wang**, and Chen Li, to appear in **SIGMOD 2024**.
 1. Building a Collaborative Data Analytics System: Opportunities and Challenges (tutorial),   
 **Zuozhi Wang**, Chen Li, in **VLDB 2023**. [ [PDF] ](https://www.vldb.org/pvldb/vol16/p3898-wang.pdf)
+1. Using Texera to Characterize Climate Change Discussions on Twitter During Wildfires, 
+Shengquan Ni, Yicong Huang, Jessie W. Y. Ko, Alexander Taylor, Xiusi Chen, Avinash Kumar, Sadeem Alsudais, **Zuozhi Wang**, Xiaozhen Liu, Wei Wang, Suellen Hopfer, and Chen Li, in Data Science Day at **KDD 2023**.
 1. Tempura: a general cost-based optimizer framework for incremental data processing (Journal Version),   
 **Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB Journal**. [ [PDF] ](/tempura-journal.pdf)
 1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,   
