@@ -85,14 +85,16 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 <div class="publications">
 
+1. How the experience of California wildfires shape Twitter climate change framings,   
+Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, Xiusi Chen, Yicong Huang, Avinash Kumar, Sadeem Alsudais, **Zuozhi Wang**, Xiaozhen Liu, Wei Wang, Chen Li, and Suellen Hopfer, in **Climate Change 2024**.  [ [PDF] ](https://link.springer.com/article/10.1007/s10584-023-03668-0)
 1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control,   
-Yicong Huang, **Zuozhi Wang**, and Chen Li, to appear in **SIGMOD 2024**.
+Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024**. [ [PDF] ](https://dl.acm.org/doi/pdf/10.1145/3626712)
 1. Building a Collaborative Data Analytics System: Opportunities and Challenges (tutorial),   
 **Zuozhi Wang**, Chen Li, in **VLDB 2023**. [ [PDF] ](https://www.vldb.org/pvldb/vol16/p3898-wang.pdf)
-1. Using Texera to Characterize Climate Change Discussions on Twitter During Wildfires, 
+1. Using Texera to Characterize Climate Change Discussions on Twitter During Wildfires,   
 Shengquan Ni, Yicong Huang, Jessie W. Y. Ko, Alexander Taylor, Xiusi Chen, Avinash Kumar, Sadeem Alsudais, **Zuozhi Wang**, Xiaozhen Liu, Wei Wang, Suellen Hopfer, and Chen Li, in Data Science Day at **KDD 2023**.
 1. Tempura: a general cost-based optimizer framework for incremental data processing (Journal Version),   
-**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB Journal**. [ [PDF] ](/tempura-journal.pdf)
+**Zuozhi Wang**, Kai Zeng, Botong Huang, Wei Chen, Xiaozong Cui, Bo Wang, Ji Liu, Liya Fan, Dachuan Qu, Zhenyu Hou, Tao Guan, Chen Li, Jingren Zhou, in **VLDB Journal 2023**. [ [PDF] ](/tempura-journal.pdf)
 1. Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees,   
 **Zuozhi Wang**, Shengquan Ni, Avinash Kumar, Chen Li, in **VLDB 2023**.   [ [PDF] ](https://www.vldb.org/pvldb/vol16/p256-wang.pdf) [ [Extended Version] ](https://arxiv.org/pdf/2210.10306.pdf)
 1. Demonstration of Collaborative and Interactive Workflow-Based Data Analytics in Texera (demo paper),   
