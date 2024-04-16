@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://zuozhiw.github.io/'
 languageCode = 'en-us'
 title = 'Zuozhi Wang'
 theme = 'researcher'
@@ -6,7 +6,7 @@ enableEmoji = true
 
 [params]
     author = 'Zuozhi Wang'
-    description = 'Homepge of Zuozhi Wang, PhD student at UCI'
+    description = 'Homepage of Zuozhi Wang'
     favicon = ""
     logo = ""
     # [params.footer]
