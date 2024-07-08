@@ -46,34 +46,6 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 - Worked on [Tempura](https://github.com/alibaba/cost-based-incremental-optimizer), a query optimizer framework for incremental data processing.
 
 
-
-## News
-<style>
-  .news ul {
-    padding-left: 0px !important;
-  }
-  .news ul li {
-    margin-bottom: 5px;
-  }
-</style>
-
-<div class="news" markdown=1>
-
-- 2023-08: Had great fun attending VLDB 2023 in Vancouver.
-- 2023-07: Started my job at Observe Inc.
-- 2023-06: Graduated from UC Irvine.
-- 2023-04: Passed my PhD final defense.
-- 2023-04: Had a blast attending ICDE 2023 in Anaheim, just steps away from UCI.
-- 2023-03: The last time I served as a TA for CS122B, one of the most popular courses at UCI. I have done TA for this course 6 times and made numerous improvements. 
-- 2022-09: Our paper "Fries: Fast and Consistent Runtime Reconfiguration in Dataflow Systems with Transactional Guarantees" accepted by VLDB 2023!
-- 2022-09: Participated remotely in our Texera VLDB 2022 demo, with my colleagues in Sydney and me in Irvine working collaboratively on a workflow at the same time.
-- 2022-09: Posted my [first blog](https://texera.github.io/blog/data-crawling-using-texera-with-python-user-defined-functions/) on using Texera for web crawling and ETL process.
-- 2022-08: Passed my topic defense exam.
-- 2022-06: Attended SIGMOD 2022 in person in Philadelphia. It was super fun to attend my first in-person conference after covid.
-- 2022-06: Two demo papers accepted by VLDB 2022.
-
-</div>
-
 ## Publications
 <style>
   .publications ol {
