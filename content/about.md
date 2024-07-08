@@ -85,8 +85,10 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 <div class="publications">
 
+1. Texera: A System for Collaborative and Interactive Data Analytics Using Workflows,
+**Zuozhi Wang**, Yicong Huang, Shengquan Ni, Avinash Kumar, Sadeem Alsudais, Xiaozhen Liu, Xinyuan Lin, Yunyan Ding, Chen Li, to appear in **VLDB 2024**.
 1. Demonstration of Udon: Line-by-line Debugging of User-Defined Functions in Data Workflows,   
-Yicong Huang, **Zuozhi Wang**, and Chen Li, to appear in **SIGMOD 2024** (Demo). 
+Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024** (**Best Demo Honorable Mention**). 
 1. How the experience of California wildfires shape Twitter climate change framings,   
 Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, Xiusi Chen, Yicong Huang, Avinash Kumar, Sadeem Alsudais, **Zuozhi Wang**, Xiaozhen Liu, Wei Wang, Chen Li, and Suellen Hopfer, in **Climate Change 2024**.  [ [PDF] ](https://link.springer.com/article/10.1007/s10584-023-03668-0)
 1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control,   
