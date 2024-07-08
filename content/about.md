@@ -85,7 +85,7 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 
 <div class="publications">
 
-1. Texera: A System for Collaborative and Interactive Data Analytics Using Workflows,
+1. Texera: A System for Collaborative and Interactive Data Analytics Using Workflows,    
 **Zuozhi Wang**, Yicong Huang, Shengquan Ni, Avinash Kumar, Sadeem Alsudais, Xiaozhen Liu, Xinyuan Lin, Yunyan Ding, Chen Li, to appear in **VLDB 2024**.
 1. Demonstration of Udon: Line-by-line Debugging of User-Defined Functions in Data Workflows,   
 Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024** (**Best Demo Honorable Mention**). 
