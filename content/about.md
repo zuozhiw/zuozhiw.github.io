@@ -6,7 +6,7 @@ title = "Zuozhi Wang"
 
 {{< figure class="avatar" src="/portrait.jpeg" alt="avatar">}}
 I'm a software engineer at [Observe Inc](https://www.observeinc.com/), working on query optimizations of large declarative pipelines.   
-I graduated with my PhD in Computer Science from UC Irvine in 2023, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed big data processing and query optimization.
+I graduated with my PhD in Computer Science from UC Irvine in 2023, under the supervision of Professor [Chen Li](https://chenli.ics.uci.edu). My research focuses are on the areas of distributed data processing and query optimization.
 
 Email:  zuozhi.wang  [at]  observeinc  [dot]  com
 
@@ -17,33 +17,35 @@ Email:  zuozhi.wang  [at]  observeinc  [dot]  com
 2013-2017
 :   **BS, Computer Science**; UC Irvine
 
-## Project Highlights
 
-**[Texera](https://github.com/Texera/texera)**, a system for scalable and collaborative data analytics using workflows.  
-2016 - Present, at UC Irvine  
+## Experiences
 
-I am a main contributor of the Texera project (1000+ commits). 
+**Software Engineer at Observe**, 2023.7 - Present
+
+I'm working on query optimizations on a large-scale observability data lake.
+
+I worked on various components of the in-house query compiler/optimizer. Implemented full-text inverted index support in query optimizer from the ground up and worked on evaluations and optimizations of complex boolean full-text queries.
+
+**PhD Student at UC Irvine**, 2017.9 - 2023.6
+
+I was a main contributor of the Texera project (1000+ commits). Texera is a distributed workflow-based data processing system. It supports Google-Doc like real-time collaborations, responsive runtime interactions, and rich debugging capabilities.
+
 I have worked on virtually all layers of the system, including the distributed dataflow execution engine, RPC services, fault tolerance, compiler, operator library, web services, and the frontend. I have also mentored over 50+ undergraduate and master students on the project.
 
-**[Tempura](https://github.com/alibaba/cost-based-incremental-optimizer)**, a cost-based optimizer framework for incremental data processing.   
-2018 - 2020, at Alibaba  
-
-I was a main developer of the Tempura optimizer framework, which is built on top of Apache Calcite. I worked on the design of the core query planner and rule engine, introduced 20+ new rewriting rules for incremental processing and incremental view maintenance, and worked on various optimizations. 
-
-Tempura has been deployed into production in [Alibaba MaxCompute](https://www.alibabacloud.com/product/maxcompute) Data Warehouse, and used by more than 10% of queries that run on the platform every day.
-
-
-## Industrial Experiences
 
 **Research Intern at Microsoft Research**, 2020.6 - 2020.9
 <!-- Research Intern in the [Data Management, Exploration and Mining (DMX)](https://www.microsoft.com/en-us/research/group/data-management-exploration-and-mining-dmx/) group. -->
-- Mentor: [Bailu Ding](https://www.microsoft.com/en-us/research/people/badin/)
-- Worked on query optimization in Microsoft SQL Server. Implemented materialized bitmap filters in SQL Server Data Warehouse and designed an algorithm to reuse materialized bitmap filters.
+Worked on query optimization in Microsoft SQL Server. Implemented materialized bitmap filters in SQL Server Data Warehouse and designed an algorithm to reuse materialized bitmap filters.
+
+Mentor: [Bailu Ding](https://www.microsoft.com/en-us/research/people/badin/)
 
 **Research Collaborator with Alibaba**,  2018.6 - 2020.6
 <!-- Research Collaborator in the Data Analytics and Intelligence Lab (DAIL). -->
-- Mentor: [Kai Zeng](https://kai-zeng.github.io/)
-- Worked on [Tempura](https://github.com/alibaba/cost-based-incremental-optimizer), a query optimizer framework for incremental data processing.
+I was a main developer of the [Tempura](https://github.com/alibaba/cost-based-incremental-optimizer) optimizer framework, which is built on top of Apache Calcite. I worked on the design of the core query planner and rule engine, introduced 20+ new rewriting rules for incremental processing and incremental view maintenance, and worked on various optimizations. 
+
+Tempura has been deployed into production in [Alibaba MaxCompute](https://www.alibabacloud.com/product/maxcompute) Data Warehouse, and used by more than 10% of queries that run on the platform every day.
+
+Mentor: [Kai Zeng](https://kai-zeng.github.io/)
 
 
 ## Publications
@@ -60,11 +62,11 @@ Tempura has been deployed into production in [Alibaba MaxCompute](https://www.al
 1. Texera: A System for Collaborative and Interactive Data Analytics Using Workflows,    
 **Zuozhi Wang**, Yicong Huang, Shengquan Ni, Avinash Kumar, Sadeem Alsudais, Xiaozhen Liu, Xinyuan Lin, Yunyan Ding, Chen Li, to appear in **VLDB 2024**.
 1. Demonstration of Udon: Line-by-line Debugging of User-Defined Functions in Data Workflows,   
-Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024** (**Best Demo Honorable Mention**). 
-1. How the experience of California wildfires shape Twitter climate change framings,   
-Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, Xiusi Chen, Yicong Huang, Avinash Kumar, Sadeem Alsudais, **Zuozhi Wang**, Xiaozhen Liu, Wei Wang, Chen Li, and Suellen Hopfer, in **Climate Change 2024**.  [ [PDF] ](https://link.springer.com/article/10.1007/s10584-023-03668-0)
+Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024** (**Best Demo Honorable Mention**). [ [PDF] ](https://dl.acm.org/doi/pdf/10.1145/3626246.3654756) [ [Video] ](https://youtu.be/UGOa1XJMeA8?si=K1k0BiE7c2vtQ2Fu)
 1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control,   
 Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024**. [ [PDF] ](https://dl.acm.org/doi/pdf/10.1145/3626712)
+1. How the experience of California wildfires shape Twitter climate change framings,   
+Jessie W. Y. Ko, Shengquan Ni, Alexander Taylor, Xiusi Chen, Yicong Huang, Avinash Kumar, Sadeem Alsudais, **Zuozhi Wang**, Xiaozhen Liu, Wei Wang, Chen Li, and Suellen Hopfer, in **Climate Change 2024**.  [ [PDF] ](https://link.springer.com/article/10.1007/s10584-023-03668-0)
 1. Building a Collaborative Data Analytics System: Opportunities and Challenges,   
 **Zuozhi Wang**, Chen Li, in **VLDB 2023** (Tutorial). [ [PDF] ](https://www.vldb.org/pvldb/vol16/p3898-wang.pdf)
 1. Using Texera to Characterize Climate Change Discussions on Twitter During Wildfires,   
