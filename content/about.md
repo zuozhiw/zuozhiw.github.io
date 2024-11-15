@@ -59,8 +59,10 @@ Mentor: [Kai Zeng](https://kai-zeng.github.io/)
 
 <div class="publications">
 
+1. IcedTea: Efficient and Responsive Time-Travel Debugging in Dataflow Systems,   
+Shengquan Ni, Yicong Huang, **Zuozhi Wang**, Chen Li, to appear in **VLDB 2025**. 
 1. Texera: A System for Collaborative and Interactive Data Analytics Using Workflows,    
-**Zuozhi Wang**, Yicong Huang, Shengquan Ni, Avinash Kumar, Sadeem Alsudais, Xiaozhen Liu, Xinyuan Lin, Yunyan Ding, Chen Li, to appear in **VLDB 2024**.
+**Zuozhi Wang**, Yicong Huang, Shengquan Ni, Avinash Kumar, Sadeem Alsudais, Xiaozhen Liu, Xinyuan Lin, Yunyan Ding, Chen Li, in **VLDB 2024**.
 1. Demonstration of Udon: Line-by-line Debugging of User-Defined Functions in Data Workflows,   
 Yicong Huang, **Zuozhi Wang**, and Chen Li, in **SIGMOD 2024** (**Best Demo Honorable Mention**). [ [PDF] ](https://dl.acm.org/doi/pdf/10.1145/3626246.3654756) [ [Video] ](https://youtu.be/UGOa1XJMeA8?si=K1k0BiE7c2vtQ2Fu)
 1. Udon: Efficient Debugging of User-Defined Functions in Big Data Systems with Line-by-Line Control,   
